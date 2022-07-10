@@ -1,0 +1,29 @@
+.input {
+  display: block;
+  margin-top: 10px;
+  width: 250px;
+  height: 30px;
+}
+.form {
+  padding: 15px;
+  margin-left: 30px;
+  width: 500px;
+  border: 1px solid black;
+}
+.buttonForm {
+  border-radius: 30% 50% 60% 0%;
+  display: block;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: white;
+  background-color: rgb(32, 50, 218);
+  border: transparent;
+  width: 100px;
+  font-weight: 500;
+  font-size: 15px;
+}
+.labelForm {
+  font-size: 20px;
+  font-weight: 500;
+}
